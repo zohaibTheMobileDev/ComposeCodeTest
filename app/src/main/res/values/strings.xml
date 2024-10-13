@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ComposeCodingText</string>
+    <string name="btn_login">Log In</string>
+    <string name="str_login">Log In</string>
+    <string name="str_enter_username_and_password">Enter any username &amp; password to proceed</string>
+
+    <string name="str_track_detail">Track Detail</string>
+    <string name="str_remove_from_favourites">Remove from Favourites</string>
+    <string name="str_add_to_favourites">Add to Favourites</string>
+    <string name="str_artwork_image_of">Artwork image of %1$s</string>
+    <string name="str_n_a">N/A</string>
+    <string name="str_default_price">0.00</string>
+    <string name="str_error_fetching_tracks">Error Fetching Tracks</string>
+    <string name="str_retry">Retry</string>
+    <string name="str_cancel_search">Cancel Search</string>
+    <string name="str_search_movies">Search Movies</string>
+    <string name="str_search_here">Search here...</string>
+    <string name="str_last_used">Last used: %1$s</string>
+
+</resources>
